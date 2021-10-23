@@ -1,15 +1,41 @@
 {
 	"data": [
 		{
-			"Id": "Lisa",
-			"email": "lisa@simpsons.com",
+			"Id": 1,
+			"email": "arpit@simpsons.com",
 			"mobile": "555-111-1224",
 			"name": "Arpit R Mishra",
 			"firstName": "Arpit",
 			"lastName": "Mishra",
 			"middleName": "R",
 			"age": 14,
-			"gender": "Male",
+			"gender": 1,
+			"knownLanguage": "English",
+			"birthDate": "27/03/1989"
+		},
+		{
+			"Id": 2,
+			"email": "arpit@simpsons.com",
+			"mobile": "555-111-1224",
+			"name": "Arpit R Mishra",
+			"firstName": "Arpit",
+			"lastName": "Mishra",
+			"middleName": "R",
+			"age": 14,
+			"gender": 1,
+			"knownLanguage": "English",
+			"birthDate": "27/03/1989"
+		},
+		{
+			"Id": 3,
+			"email": "arpit@simpsons.com",
+			"mobile": "555-111-1224",
+			"name": "Arpit R Mishra",
+			"firstName": "Arpit",
+			"lastName": "Mishra",
+			"middleName": "R",
+			"age": 14,
+			"gender": 1,
 			"knownLanguage": "English",
 			"birthDate": "27/03/1989"
 		}
